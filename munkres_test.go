@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/charles-haynes/munkres"
+	"github.com/mohndrilling/munkres"
 )
 
 func computeCost(matrix [][]float64, match []int) (float64, error) {
